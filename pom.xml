@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>simple-demo</module>
+        <module>custom-demo</module>
     </modules>
     <groupId>com.podigua</groupId>
     <artifactId>spring-boot-javafx-demo</artifactId>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.podigua.controller.MainController"
+      prefHeight="400.0" prefWidth="600.0">
+    <Button onAction="#click" text="测试"/>
+    <Label fx:id="text" text="hello"/>
+</VBox>
